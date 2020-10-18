@@ -4,7 +4,7 @@
 
 #
 
-My name is Marcos Ramalho and I'm a developer fullStack. I'm from Brazil, living in Manaus and currently working at Freelancer. You can find me on [![LinkedIn][3.2]][3].
+### My name is Marcos Ramalho and I'm a developer fullStack. I'm from Brazil, living in Manaus and currently working at Freelancer. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
