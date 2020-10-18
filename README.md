@@ -2,7 +2,9 @@
 
 ![Header](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
 
-<p align="center">My name is Marcos Ramalho and I'm a developer fullStack. I'm from Brazil, living in Manaus and currently working at Freelancer. You can find me on [![LinkedIn][3.2]][3].</p>
+#
+
+My name is Marcos Ramalho and I'm a developer fullStack. I'm from Brazil, living in Manaus and currently working at Freelancer. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -26,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosramalho&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/marcosramalho/marcosramalho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosramalho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosramalho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marcos's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
